@@ -7,7 +7,7 @@ title: Articles
 
 Some slides with links to examples and documentation, prepared for a talk at [GDG Vienna – GCP Next 2016 Recap][meetup]:
 
-<iframe src="https://docs.google.com/presentation/d/1jfcL4YtpVFLOrz6SgnuRYTQe5CJYmWZkQ23wUOzCZuc/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1jfcL4YtpVFLOrz6SgnuRYTQe5CJYmWZkQ23wUOzCZuc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br>
 Download here
