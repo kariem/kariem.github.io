@@ -1,0 +1,22 @@
+---
+layout: post
+title: Talk on App Engine - Long-term
+---
+
+I've had the chance to talk about my experiences with [Google App Engine][gae] at a recent [local GDG meetup][meetup]. It was fun, because it was the first time I presented in front of people who were very new to the topic.
+
+My first experience with App Engine was shortly after public availability in 2008, and I used it for an academic project: as a proof of concept of my master thesis. I also wanted to learn Python and play around with something new. The other cool thing I got to use at that time was [Yahoo Pipes][pipes], which only recently, in summer of 2015, was shut down.
+
+Since that time, the App Engine platform has progressed quite a bit and keeps improving. Last month, among several announcements during [GCP Next 2016][gcp-next], _Managed VMs_ were rebranded as [_Flexible Environment_][gae-flexible]. The now so-called [_Standard Environment_][gae-standard] is still an impressive piece of technology, but for me, more than that, encapsulates the web architecture and mindset we now all rely on when we use App Engine or similar platform. I hope I can follow up with some details at a later point in time.
+
+Until then, I will try to collect my thoughts [here](articles#app-engine) and have put my slides from the meetup below
+
+<iframe src="https://docs.google.com/presentation/d/1jfcL4YtpVFLOrz6SgnuRYTQe5CJYmWZkQ23wUOzCZuc/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+[gae]: https://cloud.google.com/appengine/
+[meetup]: http://www.meetup.com/GDG-Vienna/events/229686731/
+[pipes]: https://en.wikipedia.org/wiki/Yahoo!_Pipes
+[gcp-next]: https://cloudplatformonline.com/Next2016.html
+[gae-flexible]: https://cloud.google.com/appengine/docs/flexible/
+[gae-standard]: https://cloud.google.com/appengine/docs/about-the-standard-environment
